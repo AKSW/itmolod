@@ -6,7 +6,7 @@ ITMO
 It consists of
 
 1. conversion of ITMO University database data to RDF ([SPARQL endpoint](http://lod.ifmo.ru/sparql), [Pubby](http://lod.ifmo.ru/page/Laboratory87847))
-2. extension of the existing vivo Ontology to cover the data ([Ontology](https://raw.githubusercontent.com/AKSW/itmo/master/ontology/vivoplus.ttl))
+2. extension of the existing vivo Ontology to cover the data ([Ontology](https://raw.githubusercontent.com/AKSW/itmolod/master/ontology/vivoplus.ttl))
 3. create applications from the RDF data, such as visualizations ([Laboratory Heatmap](http://lod.ifmo.ru/usecases/heatmap.html))
 
 Future work we want to encourage is
