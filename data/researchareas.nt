@@ -1,0 +1,376 @@
+<http://lod.ifmo.ru/ResearchArea749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea1927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea3011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea2933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoplus.aksw.org/ontology#ResearchArea> .
+<http://lod.ifmo.ru/ResearchArea749> <http://www.w3.org/2000/01/rdf-schema#label> "Суперлинза с наклонными гранями"@ru .
+<http://lod.ifmo.ru/ResearchArea753> <http://www.w3.org/2000/01/rdf-schema#label> "Субволновые плазмонные кинки, солитоны и осциллоны в массивах нелинейных металлических наночастиц"@ru .
+<http://lod.ifmo.ru/ResearchArea751> <http://www.w3.org/2000/01/rdf-schema#label> "Гибкие спирали для нелинейных метаматериалов"@ru .
+<http://lod.ifmo.ru/ResearchArea747> <http://www.w3.org/2000/01/rdf-schema#label> "Наноантенные покрытия для повышения эффективности тонкоплёночных солнечных батарей"@ru .
+<http://lod.ifmo.ru/ResearchArea733> <http://www.w3.org/2000/01/rdf-schema#label> "Компенсация потерь в метаматериалах"@ru .
+<http://lod.ifmo.ru/ResearchArea739> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка программного комплекса для суперкомпьютерного моделирования компонент и схем нанофотоники методом FDTD"@ru .
+<http://lod.ifmo.ru/ResearchArea737> <http://www.w3.org/2000/01/rdf-schema#label> "Диэлектрические наноантенны"@ru .
+<http://lod.ifmo.ru/ResearchArea735> <http://www.w3.org/2000/01/rdf-schema#label> "Применение метаматериалов для МРТ"@ru .
+<http://lod.ifmo.ru/ResearchArea745> <http://www.w3.org/2000/01/rdf-schema#label> "Оптически управляемые магнитные метаматериалы"@ru .
+<http://lod.ifmo.ru/ResearchArea741> <http://www.w3.org/2000/01/rdf-schema#label> "Спонтанное излучение дипольного источника конечных размеров в гиперболической среде"@ru .
+<http://lod.ifmo.ru/ResearchArea743> <http://www.w3.org/2000/01/rdf-schema#label> "Метаматериальное покрытие с двойной оболочкой для плазмонной маскировки"@ru .
+<http://lod.ifmo.ru/ResearchArea1809> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка алгоритмов управления мехатронными и робототехническими системами в условиях неполной информации о параметрах объекта и среде его функционирования"@ru .
+<http://lod.ifmo.ru/ResearchArea1807> <http://www.w3.org/2000/01/rdf-schema#label> "Идентификация параметров гармонического сигнала в условиях внешних возмущающих воздействий"@ru .
+<http://lod.ifmo.ru/ResearchArea1805> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка и исследования биотехнической системы управления робототехническими комплексами"@ru .
+<http://lod.ifmo.ru/ResearchArea1803> <http://www.w3.org/2000/01/rdf-schema#label> "Адаптивная компенсация синусоидальных возмущений в мехатронных системах"@ru .
+<http://lod.ifmo.ru/ResearchArea1821> <http://www.w3.org/2000/01/rdf-schema#label> "Нелинейное и адаптивное управление динамическими объектами с ограниченным управляющим входом"@ru .
+<http://lod.ifmo.ru/ResearchArea1819> <http://www.w3.org/2000/01/rdf-schema#label> "Управление и оценивание для распределенных систем при информационных ограничениях"@ru .
+<http://lod.ifmo.ru/ResearchArea1813> <http://www.w3.org/2000/01/rdf-schema#label> "Методология применения  качественной устойчивости при проектировании цифровых регуляторов систем с сосредоточенными и распределёнными параметрами"@ru .
+<http://lod.ifmo.ru/ResearchArea1811> <http://www.w3.org/2000/01/rdf-schema#label> "Траекторное управление робототехническими системами в условиях ограничений и неопределенностей"@ru .
+<http://lod.ifmo.ru/ResearchArea1799> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка новых методов адаптивного управления линейными и нелинейными динамическими системами в условиях внешних возмущающих воздействий и неучтенной динамики"@ru .
+<http://lod.ifmo.ru/ResearchArea1801> <http://www.w3.org/2000/01/rdf-schema#label> "Синтез методов исследования и управления колебательными процессами в нелинейных динамических системах"@ru .
+<http://lod.ifmo.ru/ResearchArea1817> <http://www.w3.org/2000/01/rdf-schema#label> "Экспериментальные исследования зон неопределенности состояния импульсных преобразователей постоянного тока в окрестности бифуркационной точки"@ru .
+<http://lod.ifmo.ru/ResearchArea1815> <http://www.w3.org/2000/01/rdf-schema#label> "Экспериментальные исследования нелинейных явлений гистерезиса и перемежаемости в динамике импульсных преобразователей постоянного тока"@ru .
+<http://lod.ifmo.ru/ResearchArea3505> <http://www.w3.org/2000/01/rdf-schema#label> "Создание высокоэффективных термоэлектрических материалов "@ru .
+<http://lod.ifmo.ru/ResearchArea415> <http://www.w3.org/2000/01/rdf-schema#label> "Наноструктурные термоэлектрики для генерации электроэнергии"@ru .
+<http://lod.ifmo.ru/ResearchArea2193> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка УФ-лазерных технологий формирования брэгговских  решеток на оптических волокнах"@ru .
+<http://lod.ifmo.ru/ResearchArea2191> <http://www.w3.org/2000/01/rdf-schema#label> "Оптоакустические исследования взаимодействия лазерного излучения с веществом"@ru .
+<http://lod.ifmo.ru/ResearchArea2189> <http://www.w3.org/2000/01/rdf-schema#label> "Лазерная регистрация изображений сверх оптического разрешения"@ru .
+<http://lod.ifmo.ru/ResearchArea2161> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка когнитивных технологии многопараметрического мониторинга распределённых техногностических систем"@ru .
+<http://lod.ifmo.ru/ResearchArea2163> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка когнитивных вычислительных алгоритмов и технологий анализа изображений дистанционного зондирования Земли и гетерогенных данных служб мониторинга солнечно-земных связей"@ru .
+<http://lod.ifmo.ru/ResearchArea2159> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование и развитие технологии когнитивной визуализации для анализа больших объемов экспериментальных данных"@ru .
+<http://lod.ifmo.ru/ResearchArea461> <http://www.w3.org/2000/01/rdf-schema#label> "Вычислительная оптика, фотоника и визуализация изображений"@ru .
+<http://lod.ifmo.ru/ResearchArea405> <http://www.w3.org/2000/01/rdf-schema#label> "Нелинейно-оптические молекулярные кристаллы"@ru .
+<http://lod.ifmo.ru/ResearchArea407> <http://www.w3.org/2000/01/rdf-schema#label> "Микролазеры"@ru .
+<http://lod.ifmo.ru/ResearchArea927> <http://www.w3.org/2000/01/rdf-schema#label> "Создание научно-методического аппарата, использующего решения, базирующиеся на  кодах, исправляющих ошибки, и иных перспективных методах защиты криптоустройств и идентифицирующих устройств от атак по сторонним каналам"@ru .
+<http://lod.ifmo.ru/ResearchArea921> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование атак на современные и перспективные криптоустройства, системы мониторинга информационной безопасности, мультиагентные системы и разработка методов и алгоритмов для повышения криптостойкости современных устройств"@ru .
+<http://lod.ifmo.ru/ResearchArea925> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка методов и методик обнаружения, нейтрализации и противодействия существующим атакам по сторонним каналам"@ru .
+<http://lod.ifmo.ru/ResearchArea923> <http://www.w3.org/2000/01/rdf-schema#label> "Выявление уязвимостей современных криптоустройств, устройств коммуникации, систем мониторинга ИБ, позволяющих осуществлять воздействия на программное обеспечение и алгоритмы"@ru .
+<http://lod.ifmo.ru/ResearchArea2181> <http://www.w3.org/2000/01/rdf-schema#label> "Терагерцовая биомедицина"@ru .
+<http://lod.ifmo.ru/ResearchArea2179> <http://www.w3.org/2000/01/rdf-schema#label> "Квантовая информатика "@ru .
+<http://lod.ifmo.ru/ResearchArea2177> <http://www.w3.org/2000/01/rdf-schema#label> "Фемтосекундная оптика и фемтотехнологии"@ru .
+<http://lod.ifmo.ru/ResearchArea585> <http://www.w3.org/2000/01/rdf-schema#label> "Естественная человеко-машинная коммуникация"@ru .
+<http://lod.ifmo.ru/ResearchArea587> <http://www.w3.org/2000/01/rdf-schema#label> "Многомодальные биометрические системы"@ru .
+<http://lod.ifmo.ru/ResearchArea3509> <http://www.w3.org/2000/01/rdf-schema#label> "Распознавание акустических событий"@ru .
+<http://lod.ifmo.ru/ResearchArea1367> <http://www.w3.org/2000/01/rdf-schema#label> "Методы и алгоритмы автоматических рассуждений и семантического поиска"@ru .
+<http://lod.ifmo.ru/ResearchArea1369> <http://www.w3.org/2000/01/rdf-schema#label> "Методы и средства семантического анализа текстов и автоматического наполнения онтологий"@ru .
+<http://lod.ifmo.ru/ResearchArea1365> <http://www.w3.org/2000/01/rdf-schema#label> "Интеграция информационных систем и доступ к данным на основе онтологий и семантической интероперабельности"@ru .
+<http://lod.ifmo.ru/ResearchArea1363> <http://www.w3.org/2000/01/rdf-schema#label> "Технологии связных открытых данных (Linked Open Data) и методы построения хранилищ данных в семантических форматах, включая открытые государственные данные"@ru .
+<http://lod.ifmo.ru/ResearchArea1361> <http://www.w3.org/2000/01/rdf-schema#label> "Онтологическое моделирование различных областей знаний и создание баз знаний. Internet of Things"@ru .
+<http://lod.ifmo.ru/ResearchArea3423> <http://www.w3.org/2000/01/rdf-schema#label> "Оптические системы различного назначения"@ru .
+<http://lod.ifmo.ru/ResearchArea3441> <http://www.w3.org/2000/01/rdf-schema#label> "Акселерометры на основе ферромагнетиков"@ru .
+<http://lod.ifmo.ru/ResearchArea3433> <http://www.w3.org/2000/01/rdf-schema#label> "Приборы и системы цветового и спектрального анализа\nобъектов"@ru .
+<http://lod.ifmo.ru/ResearchArea3421> <http://www.w3.org/2000/01/rdf-schema#label> "Приборы, системы и сенсоры обеспечения техносферной безопасности"@ru .
+<http://lod.ifmo.ru/ResearchArea3425> <http://www.w3.org/2000/01/rdf-schema#label> "Компьютерные методы исследования и контроля оптики"@ru .
+<http://lod.ifmo.ru/ResearchArea3431> <http://www.w3.org/2000/01/rdf-schema#label> "Комплексированные телевизионно-тепловизионные системы\nнаблюдения"@ru .
+<http://lod.ifmo.ru/ResearchArea3427> <http://www.w3.org/2000/01/rdf-schema#label> "Видеоинформационные измерительные систем"@ru .
+<http://lod.ifmo.ru/ResearchArea3443> <http://www.w3.org/2000/01/rdf-schema#label> "Радиометры для измерения лучистых тепловых потоков\nвысокой плотности"@ru .
+<http://lod.ifmo.ru/ResearchArea3439> <http://www.w3.org/2000/01/rdf-schema#label> "Сенсоры для измерений теплового потока на основе\nсовременных материалов"@ru .
+<http://lod.ifmo.ru/ResearchArea3437> <http://www.w3.org/2000/01/rdf-schema#label> "Фотометрические системы аттестации ОЭПиС, источников\nи приемников оптического излучения"@ru .
+<http://lod.ifmo.ru/ResearchArea3435> <http://www.w3.org/2000/01/rdf-schema#label> "Оптико-электронные приборы и системы сепарации\nполезных ископаемых"@ru .
+<http://lod.ifmo.ru/ResearchArea3429> <http://www.w3.org/2000/01/rdf-schema#label> "Видеоинформационные системы наблюдения"@ru .
+<http://lod.ifmo.ru/ResearchArea779> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка и создание на основе новых наноструктурированных оптических материалов элементной базы нового поколения"@ru .
+<http://lod.ifmo.ru/ResearchArea777> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка новых технологий получения и обработки наноструктурированных оптических материалов"@ru .
+<http://lod.ifmo.ru/ResearchArea775> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование наноструктурированных оптических материалов"@ru .
+<http://lod.ifmo.ru/ResearchArea773> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка и создание новых наноструктурированных оптических материалов"@ru .
+<http://lod.ifmo.ru/ResearchArea1337> <http://www.w3.org/2000/01/rdf-schema#label> "Межмолекулярные взаимодействия "@ru .
+<http://lod.ifmo.ru/ResearchArea1099> <http://www.w3.org/2000/01/rdf-schema#label> "Структурная биоинформатика белка "@ru .
+<http://lod.ifmo.ru/ResearchArea1001> <http://www.w3.org/2000/01/rdf-schema#label> "ИСТОРИЯ И ТЕОРИЯ ЭВОЛЮЦИОННОЙ БИОЛОГИИ РАЗВИТИЯ:"@ru .
+<http://lod.ifmo.ru/ResearchArea1171> <http://www.w3.org/2000/01/rdf-schema#label> "Основные направления деятельности Института"@ru .
+<http://lod.ifmo.ru/ResearchArea1231> <http://www.w3.org/2000/01/rdf-schema#label> "Теория и моделирование полупроводниковых, диэлектрических и металлических наноструктур"@ru .
+<http://lod.ifmo.ru/ResearchArea1229> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование и разработка наноматериалов, наноструктур, микро- и наноустройств"@ru .
+<http://lod.ifmo.ru/ResearchArea1411> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование волновых компрессоров"@ru .
+<http://lod.ifmo.ru/ResearchArea1409> <http://www.w3.org/2000/01/rdf-schema#label> "Детонационные технологии"@ru .
+<http://lod.ifmo.ru/ResearchArea1407> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование теплообмена и гидродинамики двухфазных потоков в миниканалах и трубах малого диаметра"@ru .
+<http://lod.ifmo.ru/ResearchArea2865> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование процессов газодинамики в элементах машин низкотемпературной техники"@ru .
+<http://lod.ifmo.ru/ResearchArea1787> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка технологий создания газостатических управляемых опор тяжелых (до 300 кг) роторов силовых установок (СУ) космических и летательных аппаратов (ЛА)"@ru .
+<http://lod.ifmo.ru/ResearchArea1247> <http://www.w3.org/2000/01/rdf-schema#label> "Измерение и контроль.\nПриборы для измерения."@ru .
+<http://lod.ifmo.ru/ResearchArea1243> <http://www.w3.org/2000/01/rdf-schema#label> "Оптика"@ru .
+<http://lod.ifmo.ru/ResearchArea1245> <http://www.w3.org/2000/01/rdf-schema#label> "Формирование оптического изображения"@ru .
+<http://lod.ifmo.ru/ResearchArea2381> <http://www.w3.org/2000/01/rdf-schema#label> "Создание САПР для проектирования встраиваемых систем на базе HLD-методологии"@ru .
+<http://lod.ifmo.ru/ResearchArea483> <http://www.w3.org/2000/01/rdf-schema#label> "Реконфигурируемые вычислительные архитектуры \"Систем на Кристалле\""@ru .
+<http://lod.ifmo.ru/ResearchArea487> <http://www.w3.org/2000/01/rdf-schema#label> "HLD-методология проектирования встраиваемых систем"@ru .
+<http://lod.ifmo.ru/ResearchArea2095> <http://www.w3.org/2000/01/rdf-schema#label> "УФ светодиодные сборки"@ru .
+<http://lod.ifmo.ru/ResearchArea2093> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование теплового режима светодиодных ламп"@ru .
+<http://lod.ifmo.ru/ResearchArea899> <http://www.w3.org/2000/01/rdf-schema#label> "Моделирование и оптимизация  структурных свойств светодиодных материалов"@ru .
+<http://lod.ifmo.ru/ResearchArea503> <http://www.w3.org/2000/01/rdf-schema#label> "Высокоточные электрические и электромеханические системы для ОПУ прецизионных квантовооптических систем"@ru .
+<http://lod.ifmo.ru/ResearchArea507> <http://www.w3.org/2000/01/rdf-schema#label> "Устройства бесконтактной передачи энергии"@ru .
+<http://lod.ifmo.ru/ResearchArea505> <http://www.w3.org/2000/01/rdf-schema#label> "Энергоэффективные полупроводниковые преобразователи с возможностью двустороннего обмена энергией"@ru .
+<http://lod.ifmo.ru/ResearchArea1737> <http://www.w3.org/2000/01/rdf-schema#label> "ТЕХНОЛОГИИ ИНТЕРАКТИВНОГО ПОГРУЖЕНИЯ"@ru .
+<http://lod.ifmo.ru/ResearchArea1739> <http://www.w3.org/2000/01/rdf-schema#label> "СОХРАНЕНИЕ КУЛЬТУРНОГО НАСЛЕДИЯ"@ru .
+<http://lod.ifmo.ru/ResearchArea1735> <http://www.w3.org/2000/01/rdf-schema#label> "ТЕХНОЛОГИИ ИНТЕРАКТИВНОГО ИНТЕРНЕТ-ТЕАТРА\n"@ru .
+<http://lod.ifmo.ru/ResearchArea1743> <http://www.w3.org/2000/01/rdf-schema#label> "АВТОМАТИЗИРОВАННАЯ ПЛАТФОРМА \"СВЕТОВОЙ ОРКЕСТР\""@ru .
+<http://lod.ifmo.ru/ResearchArea1741> <http://www.w3.org/2000/01/rdf-schema#label> "СИСТЕМЫ ТЕХНИЧЕСКОГО ЗРЕНИЯ И ЗАХВАТА ДВИЖЕНИЯ"@ru .
+<http://lod.ifmo.ru/ResearchArea1749> <http://www.w3.org/2000/01/rdf-schema#label> "ТЕХНИЧЕСКИЕ СРЕДСТВА И СИСТЕМЫ МЕДИАИНДУСТРИИ"@ru .
+<http://lod.ifmo.ru/ResearchArea1421> <http://www.w3.org/2000/01/rdf-schema#label> "Междисциплинарные исследования социально-экономических практик устойчивого развития"@ru .
+<http://lod.ifmo.ru/ResearchArea1761> <http://www.w3.org/2000/01/rdf-schema#label> "Высокостабильные лазерные системы на основе  частотных оптических гребенок"@ru .
+<http://lod.ifmo.ru/ResearchArea1785> <http://www.w3.org/2000/01/rdf-schema#label> "Лазерное зондирование окружающей среды"@ru .
+<http://lod.ifmo.ru/ResearchArea1733> <http://www.w3.org/2000/01/rdf-schema#label> "синтез молекулярных структур с программируемыми на наноуровне свойствами"@ru .
+<http://lod.ifmo.ru/ResearchArea1731> <http://www.w3.org/2000/01/rdf-schema#label> "исследование и применение методов многомерной обработки данных "@ru .
+<http://lod.ifmo.ru/ResearchArea1729> <http://www.w3.org/2000/01/rdf-schema#label> "искусственные сенсорные системы"@ru .
+<http://lod.ifmo.ru/ResearchArea1753> <http://www.w3.org/2000/01/rdf-schema#label> "разработка и применение гибридных методов анализа сложных реальных объектов на основе электрохимической и спектроскопической методологии"@ru .
+<http://lod.ifmo.ru/ResearchArea1275> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование и разработка новых моделей, методик и технологий электронного обучения."@ru .
+<http://lod.ifmo.ru/ResearchArea1273> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование основных показателей функционального состояния обучаемых в процессе их познавательной деятельности."@ru .
+<http://lod.ifmo.ru/ResearchArea1393> <http://www.w3.org/2000/01/rdf-schema#label> "Технологии программирования"@ru .
+<http://lod.ifmo.ru/ResearchArea1287> <http://www.w3.org/2000/01/rdf-schema#label> "Машинное обучение"@ru .
+<http://lod.ifmo.ru/ResearchArea1283> <http://www.w3.org/2000/01/rdf-schema#label> "Биоинформатика"@ru .
+<http://lod.ifmo.ru/ResearchArea1841> <http://www.w3.org/2000/01/rdf-schema#label> "Квантовый граф, графен, нанослои"@ru .
+<http://lod.ifmo.ru/ResearchArea1845> <http://www.w3.org/2000/01/rdf-schema#label> "Спектральные, оптические и магнитные свойства наносистем"@ru .
+<http://lod.ifmo.ru/ResearchArea1843> <http://www.w3.org/2000/01/rdf-schema#label> "Магнитные и транспортные свойства сложных систем"@ru .
+<http://lod.ifmo.ru/ResearchArea3465> <http://www.w3.org/2000/01/rdf-schema#label> "Квантовая теория электрооптического модулятора"@ru .
+<http://lod.ifmo.ru/ResearchArea3469> <http://www.w3.org/2000/01/rdf-schema#label> "Математические модели для метаматериалов"@ru .
+<http://lod.ifmo.ru/ResearchArea3481> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка алгоритмов для ДНК-компьютера"@ru .
+<http://lod.ifmo.ru/ResearchArea3417> <http://www.w3.org/2000/01/rdf-schema#label> "Детектирование квантовых параметрических процессов"@ru .
+<http://lod.ifmo.ru/ResearchArea3373> <http://www.w3.org/2000/01/rdf-schema#label> "Математические методы для задач геофизики"@ru .
+<http://lod.ifmo.ru/ResearchArea997> <http://www.w3.org/2000/01/rdf-schema#label> "Моделирование разряда с использованием аналитических методов"@ru .
+<http://lod.ifmo.ru/ResearchArea987> <http://www.w3.org/2000/01/rdf-schema#label> "Плазмохимическое моделирование разрядов в газах SF6 и O2"@ru .
+<http://lod.ifmo.ru/ResearchArea983> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование параметров нелокальной плазмы модифицированного короткого газового разряда постоянного тока с накаливаемым катодом"@ru .
+<http://lod.ifmo.ru/ResearchArea993> <http://www.w3.org/2000/01/rdf-schema#label> "Изучение особенностей дрейфа микрочастиц в плазме, обусловленных спецификой функции распределения электронов по энергиям в нелокальной плазме"@ru .
+<http://lod.ifmo.ru/ResearchArea1239> <http://www.w3.org/2000/01/rdf-schema#label> "ПЕРВАЗИВНЫЕ ВЫЧИСЛЕНИЯ И ИНТЕРНЕТ ВЕЩЕЙ "@ru .
+<http://lod.ifmo.ru/ResearchArea1241> <http://www.w3.org/2000/01/rdf-schema#label> "ПРОГРАММНО-КОНФИГУРИРУЕМЫЕ СЕТИ "@ru .
+<http://lod.ifmo.ru/ResearchArea1115> <http://www.w3.org/2000/01/rdf-schema#label> "БОЛЬШИЕ ДАННЫЕ "@ru .
+<http://lod.ifmo.ru/ResearchArea1233> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование возможности выращивания объемных кристаллов карбида кремния политипа 3С для силовых приборов"@ru .
+<http://lod.ifmo.ru/ResearchArea2641> <http://www.w3.org/2000/01/rdf-schema#label> "Наноструктурирование ударными волнами"@ru .
+<http://lod.ifmo.ru/ResearchArea495> <http://www.w3.org/2000/01/rdf-schema#label> "Применение SiC в электронике"@ru .
+<http://lod.ifmo.ru/ResearchArea493> <http://www.w3.org/2000/01/rdf-schema#label> "Пленки графена на подложках SiC"@ru .
+<http://lod.ifmo.ru/ResearchArea497> <http://www.w3.org/2000/01/rdf-schema#label> "Исследования применений ХГЭ"@ru .
+<http://lod.ifmo.ru/ResearchArea1601> <http://www.w3.org/2000/01/rdf-schema#label> "28.17.33\tКомпьютерное моделирование реальности. Виртуальная реальность "@ru .
+<http://lod.ifmo.ru/ResearchArea1527> <http://www.w3.org/2000/01/rdf-schema#label> "00.77.00 \tМатематическое моделирование в общественных и гуманитарных науках"@ru .
+<http://lod.ifmo.ru/ResearchArea1595> <http://www.w3.org/2000/01/rdf-schema#label> "28.19.27\tСамоорганизующиеся системы\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1593> <http://www.w3.org/2000/01/rdf-schema#label> "28.19.31\tИдентификация систем\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1589> <http://www.w3.org/2000/01/rdf-schema#label> "28.29.00\tСистемный анализ\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1573> <http://www.w3.org/2000/01/rdf-schema#label> "28.29.03\tТеория полезности и принятия решений\t "@ru .
+<http://lod.ifmo.ru/ResearchArea1537> <http://www.w3.org/2000/01/rdf-schema#label> "27.03.66\tМатематические структуры. Теория моделей. "@ru .
+<http://lod.ifmo.ru/ResearchArea1535> <http://www.w3.org/2000/01/rdf-schema#label> "26.00.00\tКомплексные проблемы общественных наук\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1597> <http://www.w3.org/2000/01/rdf-schema#label> "27.47.23\tМатематические проблемы искусственного интеллекта "@ru .
+<http://lod.ifmo.ru/ResearchArea1541> <http://www.w3.org/2000/01/rdf-schema#label> "27.35.33\tМатематические модели\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1539> <http://www.w3.org/2000/01/rdf-schema#label> "27.35.00\tМатематические модели естественных наук и технических наук. Уравнения математической физики\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1533> <http://www.w3.org/2000/01/rdf-schema#label> "20.15.05   Информационные службы, сети, системы в целом\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1529> <http://www.w3.org/2000/01/rdf-schema#label> "04.21.71 Социальное планирование и прогнозирование\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1531> <http://www.w3.org/2000/01/rdf-schema#label> "20.23.27\tГеоинформационные системы\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1591> <http://www.w3.org/2000/01/rdf-schema#label> "28.23.13  Инженерия знаний\t"@ru .
+<http://lod.ifmo.ru/ResearchArea1927> <http://www.w3.org/2000/01/rdf-schema#label> "Анализ объектов биотехнологии и окружающей среды"@ru .
+<http://lod.ifmo.ru/ResearchArea2107> <http://www.w3.org/2000/01/rdf-schema#label> "Постурожайные биотехнологии"@ru .
+<http://lod.ifmo.ru/ResearchArea2111> <http://www.w3.org/2000/01/rdf-schema#label> "Ресурсосберегающие инженерные системы"@ru .
+<http://lod.ifmo.ru/ResearchArea2109> <http://www.w3.org/2000/01/rdf-schema#label> "Биотехнология специализированных продуктов питания"@ru .
+<http://lod.ifmo.ru/ResearchArea2483> <http://www.w3.org/2000/01/rdf-schema#label> "Новые наноструктурированные металлические проводники для проводов и кабелей, обладающие повышенной проводимостью и улучшенными прочностными характеристиками"@ru .
+<http://lod.ifmo.ru/ResearchArea2481> <http://www.w3.org/2000/01/rdf-schema#label> "Современные материалы с уникальными оптическими и тепловыми свойствами для нового поколения твердотельных источников освещения для замены традиционных люминофоров (композитные материалы, наноструктуры на основе углерода, прозрачные оксиды)"@ru .
+<http://lod.ifmo.ru/ResearchArea2487> <http://www.w3.org/2000/01/rdf-schema#label> "Построение теоретических моделей, описывающих микромеханику поведения дефектов и физические механизмы формирования структуры, релаксации остаточных напряжений и пластической деформации в композитных наноструктурах и объёмных наноматериалах"@ru .
+<http://lod.ifmo.ru/ResearchArea2485> <http://www.w3.org/2000/01/rdf-schema#label> "Подложки на основе монокристаллов оксида галлия "@ru .
+<http://lod.ifmo.ru/ResearchArea2749> <http://www.w3.org/2000/01/rdf-schema#label> "Золь-гель материалы для биохимического инжиниринга"@ru .
+<http://lod.ifmo.ru/ResearchArea2753> <http://www.w3.org/2000/01/rdf-schema#label> "Функционализированные наночастицы и высокопористые материалы"@ru .
+<http://lod.ifmo.ru/ResearchArea2755> <http://www.w3.org/2000/01/rdf-schema#label> "Низкотемпературный золь – гель синтез"@ru .
+<http://lod.ifmo.ru/ResearchArea2751> <http://www.w3.org/2000/01/rdf-schema#label> "Золь – гель материалы для полупроводниковой техники"@ru .
+<http://lod.ifmo.ru/ResearchArea2139> <http://www.w3.org/2000/01/rdf-schema#label> "Проектирование и изготовление экспериментальных макетов сверхвысокочастотных и терагерцовых устройств на базе новых мультиферроидных слоистых пленочных структур"@ru .
+<http://lod.ifmo.ru/ResearchArea2137> <http://www.w3.org/2000/01/rdf-schema#label> "Экспериментальные исследования сверхвысокочастотных и терагерцовых волновых процессов в мультиферроидных слоистых пленочных волноведущих структурах, управляемых внешними магнитным и электрическим полями в статическом и динамическом режимах"@ru .
+<http://lod.ifmo.ru/ResearchArea2135> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка теории, описывающей линейную и нелинейную волновую динамику мультиферроидных слоистых пленочных структур, кристаллов и устройств на их основе"@ru .
+<http://lod.ifmo.ru/ResearchArea2133> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка, изготовление и исследование ферритовых, сегнетоэлектрических и монолитных мультиферроидных микро- и наноструктур, а также пространственно-периодических мультиферроидных кристаллов"@ru .
+<http://lod.ifmo.ru/ResearchArea3243> <http://www.w3.org/2000/01/rdf-schema#label> "Модели и методы обеспечения экономической безопасности."@ru .
+<http://lod.ifmo.ru/ResearchArea3219> <http://www.w3.org/2000/01/rdf-schema#label> "Инновационные решения в финансовой сфере"@ru .
+<http://lod.ifmo.ru/ResearchArea3217> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнес- решения и интеллектуализация управленческих подходов"@ru .
+<http://lod.ifmo.ru/ResearchArea3215> <http://www.w3.org/2000/01/rdf-schema#label> "Моделирование и прогнозирование циклов деловой активности."@ru .
+<http://lod.ifmo.ru/ResearchArea3207> <http://www.w3.org/2000/01/rdf-schema#label> "Оптимизация сетевой организации экономических взаимосвязей."@ru .
+<http://lod.ifmo.ru/ResearchArea3205> <http://www.w3.org/2000/01/rdf-schema#label> "Формирование наукоемкой экономки и исследование инновационных процессов."@ru .
+<http://lod.ifmo.ru/ResearchArea3211> <http://www.w3.org/2000/01/rdf-schema#label> "Наукоемкая экономика и моделирование социально-экономических процессов"@ru .
+<http://lod.ifmo.ru/ResearchArea3213> <http://www.w3.org/2000/01/rdf-schema#label> "Развитие теории решения инновационных задач и инновационные игры."@ru .
+<http://lod.ifmo.ru/ResearchArea3209> <http://www.w3.org/2000/01/rdf-schema#label> "Онтологическое моделирование социально-экономических процессов и анализ вероятности принятия решений в условиях социально-экономической неопределенности."@ru .
+<http://lod.ifmo.ru/ResearchArea2039> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка волоконно-оптических систем мониторинга"@ru .
+<http://lod.ifmo.ru/ResearchArea2041> <http://www.w3.org/2000/01/rdf-schema#label> "Создание технологии фоторефрактивных оптических анизотропных кварцевых волокон"@ru .
+<http://lod.ifmo.ru/ResearchArea2037> <http://www.w3.org/2000/01/rdf-schema#label> "Технология волоконных соединителей для интегрально-оптических схем"@ru .
+<http://lod.ifmo.ru/ResearchArea2023> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка периодических фазовых структур в оптических волокнах"@ru .
+<http://lod.ifmo.ru/ResearchArea2035> <http://www.w3.org/2000/01/rdf-schema#label> "Cоздание и исследование свойств кремниевых световодов"@ru .
+<http://lod.ifmo.ru/ResearchArea2049> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка технологии записи волоконных брэгговских решеток в процессе вытяжки оптического волокна."@ru .
+<http://lod.ifmo.ru/ResearchArea2921> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка новых компонентов, моделей поведения и взаимодействия компонентов социо-киберфизических систем"@ru .
+<http://lod.ifmo.ru/ResearchArea2919> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка новых моделей, методологий и теорий киберфизических систем"@ru .
+<http://lod.ifmo.ru/ResearchArea2113> <http://www.w3.org/2000/01/rdf-schema#label> "Совершенствование методов обработки избыточной навигационной информации"@ru .
+<http://lod.ifmo.ru/ResearchArea2121> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка и конструирование чувствительных элементов навигационных систем на базе современных компьютерных технологий"@ru .
+<http://lod.ifmo.ru/ResearchArea2119> <http://www.w3.org/2000/01/rdf-schema#label> "Совершенствование аппаратуры потребителей спутниковых навигационных систем"@ru .
+<http://lod.ifmo.ru/ResearchArea2117> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка методов построения миниатюрных систем индивидуальной навигации и наведения"@ru .
+<http://lod.ifmo.ru/ResearchArea2115> <http://www.w3.org/2000/01/rdf-schema#label> "Разработка методов построения миниатюрных инерциально-спутниковых интегрированных систем ориентации и навигации для подвижных объектов и робототехнических устройств различных типов"@ru .
+<http://lod.ifmo.ru/ResearchArea3009> <http://www.w3.org/2000/01/rdf-schema#label> "Исследование влияния пространственных, фазовых,  поляризационных характеристик объектов на восприятие визуальных образов."@ru .
+<http://lod.ifmo.ru/ResearchArea3001> <http://www.w3.org/2000/01/rdf-schema#label> "Нейрофизиологические исследования методами пространственного и временного картирования мозга"@ru .
+<http://lod.ifmo.ru/ResearchArea2999> <http://www.w3.org/2000/01/rdf-schema#label> "Применение технологий виртуальной реальности для исследования когнитивных функций и их восстановления при частичной утрате"@ru .
+<http://lod.ifmo.ru/ResearchArea3011> <http://www.w3.org/2000/01/rdf-schema#label> "Дискретное временное картирование распределенной электрической активности головного мозга\nметодами цифровой обработки изображений"@ru .
+<http://lod.ifmo.ru/ResearchArea2997> <http://www.w3.org/2000/01/rdf-schema#label> "Оптимизация систем виртуальной реальности "@ru .
+<http://lod.ifmo.ru/ResearchArea2929> <http://www.w3.org/2000/01/rdf-schema#label> "Комплексное моделирование и разработка инструментальных средств структурно-функционального синтеза в человеко-машинных системах проактивного управления сложными объектами"@ru .
+<http://lod.ifmo.ru/ResearchArea2935> <http://www.w3.org/2000/01/rdf-schema#label> "Технология создания и сопровождения сертифицируемого программного обеспечения для приложений в заданных предметных областях"@ru .
+<http://lod.ifmo.ru/ResearchArea2931> <http://www.w3.org/2000/01/rdf-schema#label> "Когнитивный анализ поведения человека с целью создания проактивных средств человеко-машинного взаимодействия"@ru .
+<http://lod.ifmo.ru/ResearchArea2933> <http://www.w3.org/2000/01/rdf-schema#label> "Инструментальные средства разработки защищенных проактивных технологий и систем в заданных предметных областях"@ru .

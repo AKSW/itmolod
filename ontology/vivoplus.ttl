@@ -1,0 +1,172 @@
+# Extension of VIVO, mainly because of Russian particularities
+@prefix : <http://vivoplus.aksw.org/ontology#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix vivo: <http://vivoweb.org/ontology/core#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix lgdo: <http://linkedgeodata.org/ontology/>.
+@prefix gn: <http://www.geonames.org/ontology#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix lgd: <http://linkedgeodata.org/ontology/>.
+
+:SISTI a owl:Class;
+ rdfs:seeAlso "http://grnti.ru";
+ rdfs:label "SISTI"@en;
+ rdfs:label "ГРНТИ"@ru;
+ rdfs:comment "State Index of Scientific and Technical Information"@en;
+ rdfs:comment "Государственный рубрикатор научно-технической информации"@ru.
+
+:sistiId a rdf:Property , owl:FunctionalProperty;
+ rdfs:domain :SISTI;
+ rdfs:range xsd:String;
+ rdfs:label "SISTI ID"@en;
+ rdfs:label "Идентификатор ГРНТИ"@ru;
+ rdfs:comment "Идентификатор ГРНТИ состоит из трех групп чисел по две цифре (нн.нн.нн)"@ru;
+ rdfs:comment "SISTI identifier (nn.nn.nn)"@en.
+
+:sisti a rdf:Property;
+ rdfs:label "SISTI"@en;
+ rdfs:comment "SISTI category"@en;
+ rdfs:label "ГРНТИ"@ru;
+ rdfs:comment "Категория ГРНТИ"@ru;
+ rdfs:domain :Laboratory;
+ rdfs:range :SISTI.
+
+:Laboratory a owl:Class;
+ rdfs:subClassOf vivo:Laboratory;
+ rdfs:label "лаборатория"@ru;
+ rdfs:comment ""@ru;
+ rdfs:label "laboratory"@en;
+ rdfs:comment ""@en.
+
+:VirtualLaboratory a owl:Class;
+ rdfs:subClassOf :Laboratory;
+ rdfs:subClassOf
+ [
+  a owl:Restriction;
+  owl:onProperty lgd:country;
+  owl:cardinality 0
+ ];
+ rdfs:label "виртуальная лаборатория"@ru;
+ rdfs:comment "виртуальная лаборатория без определенного представительского офиса"@ru;
+ rdfs:label "virtual laboratory";
+ rdfs:comment "A virtual laboratory without definite representative office".
+
+:RealLaboratory a owl:Class;
+ rdfs:subClassOf :Laboratory;
+ rdfs:subClassOf
+ [
+  a owl:Restriction;
+  owl:onProperty lgd:country;
+  owl:minCardinality 1
+ ];
+ rdfs:label "реальная лаборатория"@ru;
+ rdfs:comment "реальная лаборатория с представительским офисом хотя бы в одной стране"@ru;
+ rdfs:label "Real laboratory";
+ rdfs:comment "A real laboratories with an representative office in at least one country".
+
+:researchArea a rdf:Property;
+ rdfs:subPropertyOf vivo:hasResearchArea;
+ rdfs:domain :Laboratory;
+ rdfs:range xsd:String;
+ rdfs:label "область исследований"@ru;
+ rdfs:label "Research area"@en.
+
+:ResearchArea a owl:Class;
+ rdfs:subClassOf
+ [
+  a owl:Restriction;
+  owl:onProperty :hasResearchArea;
+  owl:minCardinality 1
+ ];
+ rdfs:label "область исследований"@ru;
+ rdfs:label "research area"@en.
+ 
+:locatedIn a rdf:Property;
+ rdfs:subPropertyOf gn:locatedIn;
+ rdfs:label "located in"@en;
+ rdfs:domain :Laboratory;
+ rdfs:range lgdo:Country;
+ rdfs:label "располагается в"@ru;
+ rdfs:label "located in"@en.
+  
+# maybe it should be called different, as people are not really students as they already have a phd 
+:CandidateOfSciencesStudent rdfs:subClassOf vivo:Student, vivo:GraduateStudent;
+ rdfs:label "Candidate of Science student"@en;
+ rdfs:label "кандидат наук студент"@ru;
+ rdfs:seeAlso :CandidateOfSciencesDegree.
+ 
+:DoctorOfSciencesStudent rdfs:subClassOf vivo:Student, vivo:GraduateStudent;
+ rdfs:label "Doctor of Science student"@en;
+ rdfs:label "доктор наук студент"@ru;
+ rdfs:seeAlso :DoctorOfSciencesDegree.
+ 
+:CandidateOfSciences a vivo:AcademicDegree, vivo:ThesisDegree;
+ rdfs:comment "Equivalent to PhD. The Candidate of Sciences (Kandidat Nauk) is the lower of Russias' two doctoral degrees. It normally requires at least three years of study beyond graduation from a university level higher education institution and the award of the Specialist or the Magistr diploma."@en;
+ rdfs:label "Candidate of Sciences"@en;
+ rdfs:label "кандидат наук"@ru.
+
+:DoctorOfSciences a vivo:AcademicDegree, vivo:ThesisDegree;
+ rdfs:comment "The Doctor of Sciences (Doktor Nauk) is the higher of Russias' two doctoral degrees. It can be earned after a period of further study following the award of the Candidate of Sciences degree and requires five to fifteen years beyond the award of the Candidate of Sciences degree."@en;
+ rdfs:label "Doctor of Sciences"@en;
+ rdfs:label "доктор наук"@ru.
+
+:aspiresDegree a rdf:Property;
+ rdfs:label "aspires degree"@en;
+ rdfs:domain foaf:Person;
+ rdfs:range foaf:AcademicDegree.
+
+# todo: clarify what that means exactly
+:Supervisor a owl:Class;
+ rdfs:subClassOf foaf:Person;
+ rdfs:label "руководитель"@ru.
+
+# todo: clarify what that means exactly 
+:ScientificSupervisor a owl:Class;
+ rdfs:subClassOf foaf:Person;
+ rdfs:label "Научный руководитель"@ru.
+ 
+:academicQualification a rdf:Property;
+  rdfs:domain foaf:Person;
+  rdfs:range vivo:Qualification;
+  rdfs:label "academic qualification"@en;
+  rdfs:label "академическое звание"@ru.
+
+:academicDegree a rdf:Property;
+  rdfs:domain :AcademicQualification;
+  rdfs:range vivo:AcademicDegree;
+  rdfs:label "academic degree"@en;
+  rdfs:label "академическая степень"@ru.
+
+# academic subject (e.g. computer science, mathematics) is expected to be more broad than research area. todo: investigate this, maybe it can be put together. 
+:academicSubject a rdf:Property;
+  rdfs:domain :AcademicQualification;
+  rdfs:range :AcademicSubject;
+  rdfs:label "academic subject"@en;
+  rdfs:label "академический предмет"@ru.
+
+:AcademicQualification a owl:Class;
+  rdfs:label "academic qualification"@en;
+  rdfs:label "академическое звание"@ru;
+  rdfs:comment "Академическое звание с академической степенью в области исследования"@ru;
+  rdfs:comment "An academic qualification with an academic degree in field.";
+  rdfs:subClassOf
+ [
+  a owl:Restriction;
+  owl:onProperty :academicDegree;
+  owl:cardinality 1
+ ],
+ [
+  a owl:Restriction;
+  owl:onProperty :academicSubject;
+  owl:cardinality 1
+ ].
+
+:AcademicSubject a owl:Class;
+  rdfs:label "academic subject"@en;
+  rdfs:label "академический предмет"@ru;
+  rdfs:comment "академический предмет, например, математика или информатика"@ru;
+  rdfs:comment "academic subject, such as Math or Computer Science".
+

@@ -1,0 +1,60 @@
+#!/bin/bash
+# modified aksw commons virtload script: uses isql-vt instead of isql and deletes temporary directories after usage
+# Script for loading an rdf file into a virtuoso store using
+# virtuoso's isql
+# Usage: sourceFile graphName port userName passWord
+# e.g. <cmd> myfile.n3.bzip2 http://mygraph.org 1115 dba dba
+
+
+#virt_isql="$(dirname $0)/isql"
+virt_isql="/usr/local/virtuoso-opensource/bin/isql"
+
+unzip_source=$1
+
+virt_graphName=$2
+virt_port=1111
+virt_userName=dba
+virt_passWord=dba
+
+unzip_extension=${unzip_source##*.}
+unzip_target=${unzip_source%.*}
+
+# Phase 1: Unzip
+#echo "Target: $unzip_target, Extension: $unzip_extension"
+
+if [ $unzip_extension = "bz2" ]; then
+	bzip2 -dk $unzip_source
+elif [ $unzip_extension = "gz" ]; then
+	gzip -d $unzip_source
+elif [ $unzip_extension = "zip" ]; then
+	unzip $unzip_source
+else
+	unzip_target=$unzip_source
+fi
+
+
+# Phase 2: Convert to n-triple
+# FIXME Skip this step if the source file is already in n-triples format
+
+
+rapper_source=$unzip_target
+rapper_extension=${rapper_source##*.}
+rapper_target="${rapper_source%.*}.nt"
+
+if [ $rapper_extension != "nt" ]; then
+    tmp_rapper_target=`mktemp`
+    tmp_rapper_target="$tmp_rapper_target.nt"
+    echo "Converting to n-triples. File is $tmp_rapper_target"
+    rapper $rapper_source -i guess -o ntriples >> $tmp_rapper_target
+    rm -r $tmp_rapper_target
+fi
+
+#echo "Unzip target= $unzip_target"
+split_size=$(stat -c%s "$rapper_target")
+
+echo "Size = $split_size"
+
+#DROP graph
+echo "DROP <$virt_graphName>"
+drop_query="SPARQL CLEAR GRAPH <$virt_graphName>;"
+echo "$drop_query" | isql -S "$virt_port" -U "$virt_userName" -P "$virt_passWord"

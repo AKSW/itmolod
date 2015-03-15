@@ -1,0 +1,43 @@
+<http://lod.ifmo.ru/Laboratory87787> <http://www.w3.org/2000/01/rdf-schema#label> " The International Research Centre for Nanophotonics and Metamaterials"@en .
+<http://lod.ifmo.ru/Laboratory87789> <http://www.w3.org/2000/01/rdf-schema#label> " Adaptive and Nonlinear Control Systems Lab"@en .
+<http://lod.ifmo.ru/Laboratory87791> <http://www.w3.org/2000/01/rdf-schema#label> " Laboratory on direct energy conversion and nano-engineering of thermoelectric structures"@en .
+<http://lod.ifmo.ru/Laboratory87793> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Laser micro-and nanotechnologies\""@en .
+<http://lod.ifmo.ru/Laboratory87795> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Cognitive technology analysis of large databases\""@en .
+<http://lod.ifmo.ru/Laboratory87797> <http://www.w3.org/2000/01/rdf-schema#label> " International Scientific-Technical Center for Computational Optics, Photonics and Imaging"@en .
+<http://lod.ifmo.ru/Laboratory87799> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Nonlinear optical molecular crystals and microlasers\""@en .
+<http://lod.ifmo.ru/Laboratory87801> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"SCA Research  Lab\""@en .
+<http://lod.ifmo.ru/Laboratory87803> <http://www.w3.org/2000/01/rdf-schema#label> " International Institute \"Photonics and Optical Information Technology\""@en .
+<http://lod.ifmo.ru/Laboratory87805> <http://www.w3.org/2000/01/rdf-schema#label> "International Research Laboratory \"Multimodal biometric and speech systems\""@en .
+<http://lod.ifmo.ru/Laboratory87807> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Information Science and Semantic Technologies\""@en .
+<http://lod.ifmo.ru/Laboratory87809> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Technosphere safety\""@en .
+<http://lod.ifmo.ru/Laboratory87811> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Advanced Photonic Materials and Technologies\""@en .
+<http://lod.ifmo.ru/Laboratory87813> <http://www.w3.org/2000/01/rdf-schema#label> " International laboratory of structural bioinformatics"@en .
+<http://lod.ifmo.ru/Laboratory87815> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Science Studies\""@en .
+<http://lod.ifmo.ru/Laboratory87817> <http://www.w3.org/2000/01/rdf-schema#label> " International scientific and research institute of Bioengineering "@en .
+<http://lod.ifmo.ru/Laboratory87819> <http://www.w3.org/2000/01/rdf-schema#label> "International Research and Education Centre for Physics of Nanostructures"@en .
+<http://lod.ifmo.ru/Laboratory87821> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Applied Fluid and Gas Dynamics\""@en .
+<http://lod.ifmo.ru/Laboratory87823> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Information technologies in optical design and testing\""@en .
+<http://lod.ifmo.ru/Laboratory87825> <http://www.w3.org/2000/01/rdf-schema#label> " Laboratory of architectures and design techniques for embedded systems and systems on chip"@en .
+<http://lod.ifmo.ru/Laboratory87827> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Advanced LED materials and devices\""@en .
+<http://lod.ifmo.ru/Laboratory87831> <http://www.w3.org/2000/01/rdf-schema#label> "Laboratory of power electronics and automated electric drive"@en .
+<http://lod.ifmo.ru/Laboratory87833> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Information technologies in culture, art and design\""@en .
+<http://lod.ifmo.ru/Laboratory87835> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Sustainable development and resource efficiency in the food chain\""@en .
+<http://lod.ifmo.ru/Laboratory87837> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Laser Systems\""@en .
+<http://lod.ifmo.ru/Laboratory87841> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Artificial Sensory Systems\""@en .
+<http://lod.ifmo.ru/Laboratory87843> <http://www.w3.org/2000/01/rdf-schema#label> " International scientific laboratory of e-learning technologies"@en .
+<http://lod.ifmo.ru/Laboratory87845> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Computer technologies\""@en .
+<http://lod.ifmo.ru/Laboratory87847> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Mathematical methods of complex physical systems researchers\""@en .
+<http://lod.ifmo.ru/Laboratory87851> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Nonlocalized plasma in nanotechnology and medicine\""@en .
+<http://lod.ifmo.ru/Laboratory87853> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Networking technologies in distributed computer systems\""@en .
+<http://lod.ifmo.ru/Laboratory87855> <http://www.w3.org/2000/01/rdf-schema#label> " International laboratiory of New materials and nanofilms for microsensors, microwave and power electronics component base"@en .
+<http://lod.ifmo.ru/Laboratory87857> <http://www.w3.org/2000/01/rdf-schema#label> "TROIKA: Technology and Research On Information-driven Knowledge Alliance"@en .
+<http://lod.ifmo.ru/Laboratory88673> <http://www.w3.org/2000/01/rdf-schema#label> "International Research Centre \"Biotechnologies of the Third Millennium\""@en .
+<http://lod.ifmo.ru/Laboratory88675> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Nanomaterials and nanomechanics\""@en .
+<http://lod.ifmo.ru/Laboratory88677> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Solution chemistry of advanced materials and technologies\""@en .
+<http://lod.ifmo.ru/Laboratory88679> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Fundamental phenomena in multiferroic micro-and nanostructures and their application for microelectronics\""@en .
+<http://lod.ifmo.ru/Laboratory88681> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory \"Management, system modeling and information technologies in the economy\""@en .
+<http://lod.ifmo.ru/Laboratory88683> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory of silicon and photonics and photonics of microsystems"@en .
+<http://lod.ifmo.ru/Laboratory88687> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory «Intelligent technologies for socio-cyberphysical systems»"@en .
+<http://lod.ifmo.ru/Laboratory88691> <http://www.w3.org/2000/01/rdf-schema#label> "International Laboratory «Integrated navigation and attitude reference systems»"@en .
+<http://lod.ifmo.ru/Laboratory88693> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory «Neurophysiology of the virtual reality»"@en .
+<http://lod.ifmo.ru/Laboratory88695> <http://www.w3.org/2000/01/rdf-schema#label> "International laboratory «Smart proactive protected technologies and systems»"@en .
